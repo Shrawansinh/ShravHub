@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ShravHub/static/css/main.b77db629.css",
+    "main.js": "/ShravHub/static/js/main.a6018df9.js",
+    "static/js/453.a43495d3.chunk.js": "/ShravHub/static/js/453.a43495d3.chunk.js",
+    "static/media/Business.png": "/ShravHub/static/media/Business.f3ccf8a300bb77cbfe07.png",
+    "index.html": "/ShravHub/index.html",
+    "main.b77db629.css.map": "/ShravHub/static/css/main.b77db629.css.map",
+    "main.a6018df9.js.map": "/ShravHub/static/js/main.a6018df9.js.map",
+    "453.a43495d3.chunk.js.map": "/ShravHub/static/js/453.a43495d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b77db629.css",
+    "static/js/main.a6018df9.js"
+  ]
+}
